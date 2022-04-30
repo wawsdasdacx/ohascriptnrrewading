@@ -1,3 +1,8 @@
+local hint = Instance.new("Hint",game.CoreGui)
+hint.Text = "Undetected version is available in our discord server! (discord.gg/Z5c44s7nq4)"
+wait(5)
+hint:Destroy()
+
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
