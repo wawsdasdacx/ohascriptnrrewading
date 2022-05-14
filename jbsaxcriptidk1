@@ -1,9 +1,4 @@
-pcall(function()
-    hint = Instance.new("Hint",workspace)
-    hint.Text "Undetected version is in our discord (discord.gg/Z5c44s7nq4)"
-    wait(5)
-    hint:Destroy()
-end)
+
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
